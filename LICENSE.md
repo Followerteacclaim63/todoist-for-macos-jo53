@@ -1,4 +1,4 @@
-#  
+#  Todoist for macOS top Extension - widgets and custom themes offers the most advanced Todoist for macOS extension, with widgets and custom themes. Ideal for professionals.
 
 
 
